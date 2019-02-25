@@ -3,7 +3,6 @@
 System Requirements
   1. Processor: Intel i5 and above
   2. RAM: 4GB
-  3. Dedicated GPU: 2GB
   
 Software Requirements
   1. Text editor
