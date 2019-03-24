@@ -1,0 +1,226 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "bridge collapse"
+      },
+      "geometry": {
+        "coordinates": [
+          88.248252,
+          22.4525
+        ],
+        "type": "Point"
+      },
+      "id": "04085879581f05ffa1ff2399e6d086dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          133.765209,
+          34.601116
+        ],
+        "type": "Point"
+      },
+      "id": "1dd1c89d7829d3d3d5f4189f305d5595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          129.221863,
+          42.098442
+        ],
+        "type": "Point"
+      },
+      "id": "5e4dcec38f3e303ad0f1c3396b9af774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "volcanic eruption"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.952491,
+          14.476787
+        ],
+        "type": "Point"
+      },
+      "id": "6e3b2a0a038384551648477b72d91e49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              75.446944,
+              11.940858
+            ],
+            [
+              76.617687,
+              11.248766
+            ],
+            [
+              76.458797,
+              9.46097
+            ],
+            [
+              76.075978,
+              10.542345
+            ],
+            [
+              75.88426,
+              11.115555
+            ],
+            [
+              75.446944,
+              11.940858
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ba1ff06426f9c8798e07fa77287d731f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          76.125725,
+          10.186251
+        ],
+        "type": "Point"
+      },
+      "id": "c0dade07b6f3f508b283b78e5b55d496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "pg",
+        "wikidata": "Q691",
+        "place_name": "Papua New Guinea",
+        "type": "earthquake"
+      },
+      "geometry": {
+        "coordinates": [
+          146.1,
+          -6.36667
+        ],
+        "type": "Point"
+      },
+      "id": "country.13569484256220160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "ng",
+        "wikidata": "Q1033",
+        "place_name": "Nigeria",
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          8,
+          9
+        ],
+        "type": "Point"
+      },
+      "id": "country.15478660959034950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "short_code": "id",
+        "wikidata": "Q252",
+        "place_name": "Indonesia",
+        "type": "earthquake"
+      },
+      "geometry": {
+        "coordinates": [
+          118,
+          -2
+        ],
+        "type": "Point"
+      },
+      "id": "country.2945973043114360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          76.169347,
+          11.129597
+        ],
+        "type": "Point"
+      },
+      "id": "edd1575fc4e80f29467ecda6949916d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q298416",
+        "place_name": "Madikeri, Karnataka, India",
+        "type": "flood"
+      },
+      "geometry": {
+        "coordinates": [
+          75.73333,
+          12.41667
+        ],
+        "type": "Point"
+      },
+      "id": "place.15593968580235970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q8660",
+        "place_name": "Karachi, Sind, Pakistan",
+        "type": "heatwave"
+      },
+      "geometry": {
+        "coordinates": [
+          67.114544,
+          24.870862
+        ],
+        "type": "Point"
+      },
+      "id": "place.7148467886841210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q15826",
+        "place_name": "Palu, Sulawesi Tengah, Indonesia",
+        "type": "tsunami"
+      },
+      "geometry": {
+        "coordinates": [
+          119.83333,
+          -0.9
+        ],
+        "type": "Point"
+      },
+      "id": "place.9809379379599460"
+    }
+  ],
+  "type": "FeatureCollection"
+}
