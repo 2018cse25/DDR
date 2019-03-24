@@ -1,3 +1,5 @@
+Blog: https://medium.com/@2018cse25
+
 # DDR
 
 System Requirements
